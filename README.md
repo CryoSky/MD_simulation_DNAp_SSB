@@ -5,16 +5,16 @@ This repository contains the code for computing the MD simulation result in the 
 ### Dependencies
 The following dependencies should be enough to run all codes in this repository.
 
-python==3.10.12
-numpy>=1.24.2
-pandas==2.0.0
-matplotlib>=3.8.0
-seaborn>=0.13.1
-scipy>=1.10.1
-biopython=1.83
-mdanalysis==2.7.0
-mdtraj=1.9.7
-jupyter=1.0.0
+python==3.10.12\\
+numpy>=1.24.2\\
+pandas==2.0.0\\
+matplotlib>=3.8.0\\
+seaborn>=0.13.1\\
+scipy>=1.10.1\\
+biopython=1.83\\
+mdanalysis==2.7.0\\
+mdtraj=1.9.7\\
+jupyter=1.0.0\\
 
 ## Usage
 
