@@ -26,5 +26,5 @@ For the three code in clustering_analysis folder:
 For four code in result_analysis folder:  
     - The calculate_ca_atom_rg_mdanalysis.py calculates the rg value of all CA atoms in a specific chain or the whold protein.  
     - The calculate_q_value_pdb1_pdb2_var_length_multi_chain.py calculates the Qw value for two structures. The Qw value was used to measure the pairwise distance between two structures, with a detailed explanation provided in Jin, S. et al. Protein Structure Prediction in CASP13 Using AWSEM-Suite. J. Chem. Theory Comput. 16, 3977–3988 (2020).  
-    - The wham_calculation.py is the main script to calculates the 1D and 2D free energy profile based on the umbrella sampling result (energy and collective variables).  
+    - The wham_calculation.py is the main script to calculate the 1D and 2D free energy profile based on the umbrella sampling result (energy and collective variables).  
     - The wham_mono_sampling.py checks the distribution of collective variable and energy files.  
