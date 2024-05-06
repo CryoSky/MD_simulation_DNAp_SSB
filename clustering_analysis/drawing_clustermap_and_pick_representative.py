@@ -5,7 +5,6 @@ __author__ = 'Shikai Jin'
 __date__ = '2024-Mar-26'
 __version__ = '2.0'
 
-# Written by Shikai Jin on 2020-Aug-08, latest modified on 2024-Mar-26, modified from Xun's clustern5.py
 # Extract the clusters based on mutual-Q value file, draw clustermap and dendrogram
 # Example in Linux: python cluster_and_pick_representative.py mutualq.txt
 
